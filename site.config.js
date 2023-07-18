@@ -2,7 +2,7 @@ const CONFIG = {
   // Profile setting (required)
   profile: {
     name: "PLZ ENTER TEXT",
-    image: "https://en.gravatar.com/userimage/233875469/41fb79392a437d503e597e1d389d869c?size=200",
+    image: "/POP CAT.jpg",
     role: "CTF no sleep gang ᕕ( ᐛ )ᕗ",
     bio: "Sherpasec Founder | MCC & GCC Crew | Gamuda Scholar | Maybank Student Ambassador 2021 | APU Student Ambassador 2022 | FSEC-SS President & Challenge Creator | 2nd Year APU Cybersecurity Student",
     email: "shiauhuei.csh@gmail.com",
