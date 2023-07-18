@@ -10,6 +10,12 @@ const CONFIG = {
     github: "PLZENTERTEXT",
     instagram: "",
   },
+  projects: [
+    {
+      name: `TBC`,
+      href: "https://github.com/PLZENTERTEXT",
+    },
+  ],
   // Blog setting (required)
   blog: {
     title: "PLZ ENTER TEXT",
