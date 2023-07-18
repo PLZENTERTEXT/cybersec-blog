@@ -1,43 +1,37 @@
 const CONFIG = {
-  // profile setting (required)
+  // Profile setting (required)
   profile: {
-    name: "morethanmin",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    name: "PLZ ENTER TEXT",
+    image: "https://en.gravatar.com/userimage/233875469/41fb79392a437d503e597e1d389d869c?size=200",
+    role: "CTF no sleep gang ᕕ( ᐛ )ᕗ",
+    bio: "Sherpasec Founder | MCC & GCC Crew | Gamuda Scholar | Maybank Student Ambassador 2021 | APU Student Ambassador 2022 | FSEC-SS President & Challenge Creator | 2nd Year APU Cybersecurity Student",
+    email: "shiauhuei.csh@gmail.com",
+    linkedin: "chang-shiau-huei",
+    github: "PLZENTERTEXT",
     instagram: "",
   },
-  projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
-  ],
-  // blog setting (required)
+  // Blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "PLZ ENTER TEXT",
+    description: "Welcome to PLZ ENTER TEXT's Cybersec Blog :D,
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
     keywords: ["Blog", "Website", "Notion"],
   },
 
-  // notion configuration (required)
+  // Notion configuration (required)
   notionConfig: {
     pageId: process.env.NOTION_PAGE_ID,
   },
 
-  // plugin configuration (optional)
+  // Plugin configuration (optional)
   googleAnalytics: {
     enable: false,
     config: {
@@ -53,7 +47,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "PLZENTERTEXT/cybersec-blog",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
