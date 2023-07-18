@@ -13,7 +13,7 @@ const CONFIG = {
   // Blog setting (required)
   blog: {
     title: "PLZ ENTER TEXT",
-    description: "Welcome to PLZ ENTER TEXT's Cybersec Blog :D,
+    description: "Ello! Welcome to PLZ ENTER TEXT's Cybersec Blog :D",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
