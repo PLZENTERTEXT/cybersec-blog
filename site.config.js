@@ -12,19 +12,23 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `TBC`,
-      href: "https://github.com/PLZENTERTEXT",
+      name: `SherpaSec Call for Speakers`,
+      href: "https://forms.gle/dFt5FHd9VGBmeLEZ8",
+    },
+    {
+      name: `SherpaSec Call for Venue`,
+      href: "https://forms.gle/7jt48AwZiPNwJwot6",
     },
   ],
   // Blog setting (required)
   blog: {
     title: "PLZ ENTER TEXT",
     description: "Ello! Welcome to PLZ ENTER TEXT's Cybersec Blog :D",
-    theme: "auto", // ['light', 'dark', 'auto']
+    theme: "light", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://cybersec-blog-plzentertext.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
