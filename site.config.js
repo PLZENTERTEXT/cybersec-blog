@@ -23,11 +23,11 @@ const CONFIG = {
   // Blog setting (required)
   blog: {
     title: "PLZ ENTER TEXT",
-    description: "Ello! Welcome to PLZ ENTER TEXT's Cybersec Blog :D",
+    description: "Ello! Welcome to PLZ ENTER TEXT's CyberSec Blog :D",
     theme: "light", // ['light', 'dark', 'auto']
   },
 
-  // CONFIG configration (required)
+  // CONFIG configuration (required)
   link: "https://cybersec-blog-plzentertext.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
@@ -43,13 +43,13 @@ const CONFIG = {
 
   // Plugin configuration (optional)
   googleAnalytics: {
-    enable: false,
+    enable: true,
     config: {
       measurementId: process.env.NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID || "",
     },
   },
   googleSearchConsole: {
-    enable: false,
+    enable: true,
     config: {
       siteVerification: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "",
     },
