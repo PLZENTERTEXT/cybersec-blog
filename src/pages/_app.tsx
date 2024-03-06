@@ -9,7 +9,6 @@ import Scripts from '@components/Scripts'
 import { NextPage } from 'next'
 import { ReactElement, ReactNode } from 'react'
 import { AppProps } from 'next/app'
-import type { AppProps } from 'next/app';
 import { Analytics } from '@vercel/analytics/react';
 
 
