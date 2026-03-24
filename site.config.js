@@ -2,11 +2,11 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "PLZ ENTER TEXT",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "CTF no sleep gang ᕕ( ᐛ )ᕗ",
     bio: "Sherpasec Founder | HTB CDSA | CEH | Gamuda Cybersecurity Executive | MCC & GCC Crew | Maybank Student Ambassador 2021 | APU Student Ambassador 2022 | Ex FSEC-SS President & Challenge Creator",
     email: "shiauhuei.csh@gmail.com",
-    linkedin: "changshiauhuei",
+    linkedin: "chang-shiau-huei",
     github: "PLZENTERTEXT",
     instagram: "",
   },
