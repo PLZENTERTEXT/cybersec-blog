@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "PLZ ENTER TEXT",
-    description: "Cybersecurity Blog",
+    title: "PLZ ENTER TEXT Cybersecurity Blog",
+    description: "Welcome to my cybersecurity blog :D",
     scheme: "light", // 'light' | 'dark' | 'system'
   },
 
@@ -27,7 +27,7 @@ const CONFIG = {
   link: "https://cybersec-blog-plzentertext.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "https://og-image-korean.vercel.app/PLZ%20ENTER%20TEXT%20Cybersec%20Blog.png?theme=dark&md=1&fontSize=75px&images=https%3A%2F%2Fmorethan-log.vercel.app%2Favatar.jpg&widths=400&heights=400", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {
